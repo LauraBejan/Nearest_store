@@ -1,0 +1,24 @@
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\obj\Debug\distance_app.csprojAssemblyReference.cache
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\obj\Debug\distance_app.Form1.resources
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\obj\Debug\distance_app.Properties.Resources.resources
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\obj\Debug\distance_app.csproj.GenerateResource.cache
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\obj\Debug\distance_app.csproj.CoreCompileInputs.cache
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\bin\Debug\distance_app.exe.config
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\bin\Debug\distance_app.exe
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\bin\Debug\distance_app.pdb
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\obj\Debug\distance_app.exe
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\obj\Debug\distance_app.pdb
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app\distance_app\obj\Debug\distance_app.csproj.CopyComplete
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\bin\Debug\distance_app.exe.config
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\bin\Debug\distance_app.exe
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\bin\Debug\distance_app.pdb
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\obj\Debug\distance_app.csprojAssemblyReference.cache
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\obj\Debug\distance_app.Form1.resources
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\obj\Debug\distance_app.Properties.Resources.resources
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\obj\Debug\distance_app.csproj.GenerateResource.cache
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\obj\Debug\distance_app.csproj.CoreCompileInputs.cache
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\obj\Debug\distance_app.csproj.CopyComplete
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\obj\Debug\distance_app.exe
+C:\Users\Laurica\OneDrive\repos\PSGBD\distance_app - Copy\distance_app\obj\Debug\distance_app.pdb
